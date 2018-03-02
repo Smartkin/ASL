@@ -8,7 +8,7 @@ state("電車でＤ_LightningStage")
 	// 131 - Win-Cutscene ; 138 - Exiting from stage (loss) ; 139 - Exiting from stage (win)
 	
 	byte pause_state : 0x167EE4, 0x11;
-	float timer : 0x167EE4, 0x60,0x18, 0x698, 0x664;
+	float timer : 0x167EE4, 0x60, 0x18, 0x698, 0x664;
 	float game_speed : 0x167EE4, 0x710, 0x74, 0x8, 0xB4;
 	
 	//Apparently game uses this value to determine game speed in Masked Bunta :thinking:
