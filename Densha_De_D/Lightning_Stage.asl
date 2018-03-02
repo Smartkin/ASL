@@ -1,5 +1,5 @@
 //電車でＤ_LightningStage
-state("DDD_Light_Old")
+state("電車でＤ_LightningStage")
 {
 	byte stage : 0x167EE4, 0x38;
 	byte cleared : 0x167EE4, 0x67C;
